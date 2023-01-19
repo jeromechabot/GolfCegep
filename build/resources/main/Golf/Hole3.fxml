@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1550.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Golf.FXMLControllerHole3">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#64b224" height="818.0" layoutX="-9.0" layoutY="-6.0" stroke="BLACK" strokeType="INSIDE" width="1560.0" />
+      <Ellipse fill="#1f4d10" layoutX="78.0" layoutY="858.0" radiusX="551.0" radiusY="147.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#fff4b3" layoutX="1043.0" layoutY="540.0" radiusX="38.0" radiusY="24.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="291.0" layoutY="204.0" radiusX="785.0" radiusY="325.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="851.0" layoutY="88.0" radiusX="241.0" radiusY="153.0" rotate="21.3" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="988.0" layoutY="59.0" radiusX="329.0" radiusY="183.0" rotate="-24.4" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="200.0" layoutY="526.0" radiusX="631.0" radiusY="571.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="996.0" layoutY="785.0" radiusX="326.0" radiusY="201.0" rotate="19.3" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="1400.0" layoutY="739.0" radiusX="326.0" radiusY="153.0" rotate="-20.6" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#2d6c97" layoutX="754.0" layoutY="301.0" radiusX="281.0" radiusY="125.0" rotate="-10.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#8dd045" height="24.0" layoutX="195.0" layoutY="407.0" stroke="TRANSPARENT" strokeType="INSIDE" width="81.0" />
+      <Ellipse fill="#fff4b3" layoutX="959.0" layoutY="489.0" radiusX="81.0" radiusY="57.0" rotate="22.6" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#fff4b3" layoutX="1122.0" layoutY="304.0" radiusX="73.0" radiusY="53.0" rotate="-20.2" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#2d6c97" layoutX="548.0" layoutY="383.0" radiusX="261.0" radiusY="157.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#8dd045" layoutX="1058.0" layoutY="431.0" radiusX="65.0" radiusY="40.0" stroke="#8c1d1d00" strokeType="INSIDE" />
+      <Ellipse fill="#8dd045" layoutX="1056.0" layoutY="465.0" radiusX="114.0" radiusY="59.0" rotate="31.4" stroke="#8c1d1d00" strokeType="INSIDE" />
+      <Ellipse fill="#8dd045" layoutX="1143.0" layoutY="421.0" radiusX="132.0" radiusY="77.0" rotate="-33.7" stroke="#8c1d1d00" strokeType="INSIDE" />
+      <Ellipse fill="#8dd045" layoutX="1098.0" layoutY="463.0" radiusX="79.0" radiusY="103.0" rotate="-92.6" stroke="#8c1d1d00" strokeType="INSIDE" />
+      <Ellipse fill="#fff4b3" layoutX="1251.0" layoutY="544.0" radiusX="95.0" radiusY="44.0" rotate="-17.7" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#fff4b3" layoutX="1316.0" layoutY="500.0" radiusX="35.0" radiusY="44.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#fff4b3" layoutX="1195.0" layoutY="560.0" radiusX="60.0" radiusY="37.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="482.0" layoutY="597.0" radiusX="89.0" radiusY="74.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#389a1a" layoutX="1433.0" layoutY="136.0" radiusX="329.0" radiusY="183.0" rotate="50.2" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="38.0" layoutY="381.0" radiusX="114.0" radiusY="486.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="187.0" layoutY="45.0" radiusX="136.0" radiusY="289.0" rotate="71.6" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="124.0" layoutY="736.0" radiusX="265.0" radiusY="107.0" rotate="19.1" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="1259.0" layoutY="17.0" radiusX="133.0" radiusY="99.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="1530.0" layoutY="412.0" radiusX="148.0" radiusY="176.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="953.0" layoutY="724.0" radiusX="257.0" radiusY="129.0" rotate="-13.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#1f4d10" layoutX="1339.0" layoutY="750.0" radiusX="360.0" radiusY="160.0" rotate="-26.6" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Circle fx:id="hole" layoutX="1141.0" layoutY="381.0" radius="7.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Pane fx:id="pane" onScroll="#onScroll" prefHeight="800.0" prefWidth="1550.0" />
+   </children>
+</AnchorPane>
